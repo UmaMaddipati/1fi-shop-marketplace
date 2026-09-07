@@ -1,0 +1,6 @@
+{
+  "name": "1Fi Shop & Marketplace",
+  "description": "1Fi Shop experience featuring the 1Fi Marketplace with mutual fund backed no-cost EMI shopping, variant selection, and tenure calculation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
